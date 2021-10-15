@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.lines3 img {
+  width: 30%;
+  margin: 1.5%;
+}
+.gallery img {
+  margin: 1.5%;
+}
+div.desc {
+  padding: 15px;
+  text-align: center;
+  color: rgb(34, 135, 160);
+}
+div.gallery {
+  margin: 3.5%;
+  border: 1px #ccc;
+  float: left;
+  width: 800px;
+}
