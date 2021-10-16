@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.lines3 img {
+  width: 30%;
+  margin: 1.5%;
+}
+body {
+  border: 15px solid #9dbfd6;
+  margin: 20px auto;
+  padding: 20px;
+  width: 85%;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 16px;
+}
+.date {
+  color: #417bbd;
+  text-transform: uppercase;
+  letter-spacing: 0.1rem;
+  padding: 20px 0;
+}
+.post h2 {
+  font-size: 1.4rem;
+  font-weight: bold;
+  color: #5c89b4;
+  padding-bottom: 16px;
+}
+.post .quote {
+  border-left: 5px solid #bdc3c7;
+  padding-left: 0.5rem;
+}
+.post-info {
+  margin-top: 1rem;
+}
+.post img {
+  float: right;
+}
