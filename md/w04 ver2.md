@@ -1,12 +1,12 @@
 # W04 Assignment
 
 [Github Repo URL for Classdemo](https://vanary1.github.io/1101-classdemo-407100741/)
-![](https://i.imgur.com/B8Ydp3s.png)
+![](https://i.imgur.com/J10kqG9.png)
 
 [Github page URL for "w04 -- my photo gallery"](https://vanary1.github.io/1101-classdemo-407100741/W04/my%20photo%20gallery.html)
-![](https://i.imgur.com/5DEsYDa.jpg)
-![](https://i.imgur.com/u8qpPso.png)
-![](https://i.imgur.com/slh9HB1.png)
+![](https://i.imgur.com/3Mlaw2E.jpg)
+![](https://i.imgur.com/BrNkUtn.png)
+![](https://i.imgur.com/IEj06lj.png)
 
 # 心得
 
